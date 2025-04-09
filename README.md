@@ -101,10 +101,6 @@
 ###
 
 <br clear="both">
-<div align="centre">
-  
-![snake gif](https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg)
-</div>
 
 
 ###
@@ -118,3 +114,7 @@
 ###
 
 
+<div align="centre">
+  
+![snake gif](https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg)
+</div>
