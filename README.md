@@ -97,14 +97,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashx1812/yashx1812/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashx1812/yashx1812/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashx1812/yashx1812/output/pacman-contribution-graph.svg">
-</picture>
-
+  
 ###
 
 <br clear="both">
+<div align="centre">
+  
+![snake gif](https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg)
+</div>
 
-<img src="https://raw.githubusercontent.com/yashx1812/yashx1812/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -115,3 +116,5 @@
 </div>
 
 ###
+
+
