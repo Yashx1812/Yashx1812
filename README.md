@@ -102,19 +102,19 @@
 
 <br clear="both">
 
+<div align="centre">
+  
+![snake gif](https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg)
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.gifcen.com/wp-content/uploads/2023/02/goku-gif-8.gif"  />
+  <img height="100px" src="https://www.gifcen.com/wp-content/uploads/2023/02/goku-gif-8.gif"  />
 </div>
 
 ###
 
 
-<div align="centre">
-  
-![snake gif](https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg)
-</div>
