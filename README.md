@@ -111,7 +111,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img height="100px" src="https://www.gifcen.com/wp-content/uploads/2023/02/goku-gif-8.gif"  />
 </div>
 
