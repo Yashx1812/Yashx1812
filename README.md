@@ -81,6 +81,6 @@
   <img src="https://github.com/Yashx1812/Yashx1812/blob/output/github-snake-dark.svg" />
 </div>
 
-<div align="right">
+<div align="center">
   <img height="100px" src="https://www.gifcen.com/wp-content/uploads/2023/02/goku-gif-8.gif" />
 </div>
