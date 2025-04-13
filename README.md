@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>conntect with me</p>
+<p align="centre">Hello World!!<br>conntect with me 🌐</p>
 
 ###
 
